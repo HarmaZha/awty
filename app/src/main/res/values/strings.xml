@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">awty</string>
+    <string name="message_to_send">Message to send</string>
+    <string name="number_to_send_to">Number to send to</string>
+    <string name="interval_in_minutes">Interval in Minutes</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
