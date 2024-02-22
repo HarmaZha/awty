@@ -102,7 +102,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showToast(message: String) {
-        // Using Toast for simple feedback; replace or remove as needed for actual SMS sending feedback
+        // Using Toast for simple feedback
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
     }
 }
